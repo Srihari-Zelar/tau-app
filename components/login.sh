@@ -58,3 +58,5 @@ Head "Configure Environmental Variables"
 
 export AUTH_API_PORT=8080
 export USERS_API_ADDRESS=http://user.$DOMAIN:8080
+
+./login
